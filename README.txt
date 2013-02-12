@@ -28,3 +28,5 @@ y reformulación de los códigos de ser necesario.
 Duración: 1 semana.
 Fase II. Prueba y cambios. Etapa de prueba del sistema para detectar fallos o realizar cambios, toques finales.
 Duración: 1 semana.
+
+Fecha de comienzo: Miercoles 13 de Febrero del 2013
